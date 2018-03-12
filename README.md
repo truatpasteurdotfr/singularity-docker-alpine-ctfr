@@ -1,6 +1,6 @@
 # singularity-docker-alpine-ctfr
 singularity recipe for bootstrapping a ctfr container from a alpine:3.7 docker image
-# details at https://github.com/UnaPibaGeek/ctfr
+details at https://github.com/UnaPibaGeek/ctfr
 
 
 ```
