@@ -1,5 +1,5 @@
 # singularity-docker-alpine-ctfr
-singularity recipe for bootstrapping a ctfr container from a alpine:3.7 docker image
+singularity recipe for bootstrapping a ctfr container from a alpine:3.7 docker image (31 MB)
 details at https://github.com/UnaPibaGeek/ctfr
 
 
